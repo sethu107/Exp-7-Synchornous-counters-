@@ -1,5 +1,5 @@
-## NAME : DEEPAK.R
-## REF NO:23000154
+## NAME : SETHUPATHI
+## REF NO: 23005510
 
  
  ## Exp-6: Synchornous counters up counter and down counter 
